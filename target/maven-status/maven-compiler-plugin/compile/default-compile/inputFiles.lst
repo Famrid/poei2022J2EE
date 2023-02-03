@@ -1,12 +1,4 @@
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/apis/VideoApi.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/models/Category.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/models/Video.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/models/Like.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/apis/UserApi.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/models/User.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/models/Channel.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/models/Visitor.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/exceptions/RegisterException.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/models/Creator.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/exceptions/ForbiddenException.java
-/Users/borissmets/Public/work/4-cours/exedCentraleNantes/POEI-2/endJ2EE/src/main/java/com/freestack/helloworld/youtube/exceptions/LoginException.java
+/home/superadmin/IdeaProjects/poei2022J2EE/src/main/java/UserServlet.java
+/home/superadmin/IdeaProjects/poei2022J2EE/src/main/java/User/User.java
+/home/superadmin/IdeaProjects/poei2022J2EE/src/main/java/User/UserApi.java
+/home/superadmin/IdeaProjects/poei2022J2EE/src/main/java/LoginServlet.java
